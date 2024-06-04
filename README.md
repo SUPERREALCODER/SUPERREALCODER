@@ -1,5 +1,6 @@
 [![SUPERREALCODER's GitHub | Stats](https://stats.quine.sh/SUPERREALCODER/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUPERREALCODER)### Hi there 👋
 [![SUPERREALCODER's GitHub | Dependencies](https://stats.quine.sh/SUPERREALCODER/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUPERREALCODER)
+[![SUPERREALCODER's GitHub | Languages Over Time](https://stats.quine.sh/SUPERREALCODER/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUPERREALCODER)
 
 <!--
 **SUPERREALCODER/SUPERREALCODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
